@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sharadiya_quiz_app/static/css/main.b268401f.css",
+    "main.js": "/sharadiya_quiz_app/static/js/main.72dc45a2.js",
+    "static/js/453.6d97389f.chunk.js": "/sharadiya_quiz_app/static/js/453.6d97389f.chunk.js",
+    "static/media/monk1.png": "/sharadiya_quiz_app/static/media/monk1.7e3e99e4e98da519e423.png",
+    "index.html": "/sharadiya_quiz_app/index.html",
+    "main.b268401f.css.map": "/sharadiya_quiz_app/static/css/main.b268401f.css.map",
+    "main.72dc45a2.js.map": "/sharadiya_quiz_app/static/js/main.72dc45a2.js.map",
+    "453.6d97389f.chunk.js.map": "/sharadiya_quiz_app/static/js/453.6d97389f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b268401f.css",
+    "static/js/main.72dc45a2.js"
+  ]
+}
